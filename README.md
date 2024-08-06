@@ -9,7 +9,7 @@ Senior year computer science student with an unsatiable curiosity for almost eve
 
 ### <ins>Important Links</ins>
 
-[LinkedIn](www.linkedin.com/in/reizheng/)
+[LinkedIn](https://www.linkedin.com/in/reizheng/)
 
 [GitHub](https://github.com/ruireise)
 
