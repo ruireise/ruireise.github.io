@@ -1,5 +1,5 @@
 # ruireise.github.io
 
-(![LED star in a light bulb](https://github.com/user-attachments/assets/e715ea15-31e8-4ff2-ae60-671e5e96a350)
+![LED star in a light bulb](https://github.com/user-attachments/assets/bb9d8d49-6104-4958-bb50-1154ff3630c1)
 
 Portfolio website
