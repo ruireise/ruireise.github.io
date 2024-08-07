@@ -13,7 +13,7 @@ Senior year computer science student with an unsatiable curiosity for almost eve
 
 [GitHub](https://github.com/ruireise)
 
-[Resume - Updated August 2024](https://github.com/user-attachments/files/16504695/Rei_Resume_Aug2024.pdf)
+[Resume - Updated August 2024](https://github.com/user-attachments/files/16517815/Rei_Resume_Aug2024_nocontact.pdf)
 
 
 ### <ins>Things I've Worked On</ins>
